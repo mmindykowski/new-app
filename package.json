@@ -22,5 +22,11 @@
   "bugs": {
     "url": "https://github.com/mmindykowski/new-app/issues"
   },
-  "homepage": "https://github.com/mmindykowski/new-app#readme"
+  "homepage": "https://github.com/mmindykowski/new-app#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.48.0"
+  }
 }
