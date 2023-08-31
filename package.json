@@ -1,0 +1,26 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "My new app",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmindykowski/new-app.git"
+  },
+  "keywords": [
+    "app",
+    "hello",
+    "world"
+  ],
+  "author": "Mikson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mmindykowski/new-app/issues"
+  },
+  "homepage": "https://github.com/mmindykowski/new-app#readme"
+}
